@@ -1,0 +1,38 @@
+body {
+	text-align: : center;
+	font-family: 'Oswald', sans-serif;
+	background-image: url("https://cdn.pixabay.com/photo/2017/02/15/11/15/wintry-2068298_1280.jpg");
+}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color:white;
+}
+p {
+	text-align: center;
+	color:green;
+}
+
+
+img {
+	margin: 20px;
+	max-width: 100%;
+	min-height: 100px;
+	border:2px solid white;
+	border-radius: 5px;
+}
+
+.buttonStyle {
+	background-color: black;
+	width: 160px;
+	height: 40px;
+	color: white;
+	margin: 25px;
+
+}
+
+#imageBox {
+	margin-left: 70px;
+}
